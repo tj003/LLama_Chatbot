@@ -1,3 +1,3 @@
 # LLama_Chatbot
 
-Ollama LLAMA3 Chatpot
+A local intelligent chatbot powered by LLaMA 3 and Ollama, designed for private and efficient conversational AI.
